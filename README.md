@@ -1,5 +1,5 @@
 ### Hi  👋, I'm Ali Taima Embedded Software Engineer
-I am an undergraduate ECE Engineer interested in embedded systems, robotics, and IoT. Looking forward to advancing my skills in these fields.
+Undergraduate ECE Engineer interested in embedded systems, robotics, and IoT. Looking forward to advancing my skills in these fields.
 - 📫 How to reach me alitaima2023@gmail.com
 - 📄 to know about my experiences https://drive.google.com/file/d/1TRr-93AnNJKPVww_07Q4eWaLACXCf45e/view?usp=sharing
 
