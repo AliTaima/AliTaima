@@ -1,9 +1,10 @@
 ### Hi  👋, I'm Ali Taima Embedded Software Engineer
 Undergraduate ECE Engineer interested in embedded systems, robotics, and IoT. Looking forward to advancing my skills in these fields.
 - 📫 How to reach me alitaima2023@gmail.com
-- 📄 to know about my experiences https://drive.google.com/file/d/1TRr-93AnNJKPVww_07Q4eWaLACXCf45e/view?usp=sharing
+
 
 <!--
+- 📄 to know about my experiences https://drive.google.com/file/d/1TRr-93AnNJKPVww_07Q4eWaLACXCf45e/view?usp=sharing
 **AliTaima/AliTaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
