@@ -9,7 +9,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ali%20Taima-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ali-mohamed-taima-9328b71a1/)
 
-[![Mail](https://img.shields.io/badge/alitaima2023@gmaill.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](alitaima2023@gmaill.com)
+[![Mail](https://img.shields.io/badge/alitaima2023@gmaill.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:alitaima2023@gmaill.com)
 
 [![facebook](https://img.shields.io/badge/facebook-Ali%20M%20Taima-blue?logo=facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/profile.php?id=100013586533673)
 
