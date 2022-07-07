@@ -5,9 +5,15 @@
 
 
 ### Connect with me:
+<p  align="left">
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ali%20Taima-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ali-mohamed-taima-9328b71a1/)
-[![Mail](https://img.shields.io/badge/minakaram.me@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](alitaima2023@gmaill.com)
+
+[![Mail](https://img.shields.io/badge/alitaima2023@gmaill.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](alitaima2023@gmaill.com)
+
 [![facebook](https://img.shields.io/badge/facebook-Ali%20M%20Taima-blue?logo=facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/profile.php?id=100013586533673)
+
+</p>
 
 ## 📈 My Contributions <br>
 <p  align="left">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=AliTaima"  alt="AliTaima"  /></a>  </p>
