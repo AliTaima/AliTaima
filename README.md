@@ -7,7 +7,7 @@
 ### Connect with me:
 <p  align="left">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ali%20Taima-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ali-mohamed-taima-9328b71a1/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ali%20Taima-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ali-taima-9328b71a1/)
 
 [![Mail](https://img.shields.io/badge/alitaima2023@gmaill.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:alitaima2023@gmaill.com)
 
